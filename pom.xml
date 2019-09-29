@@ -63,26 +63,6 @@
 
 
 
-<!-- https://mvnrepository.com/artifact/com.vimalselvam/cucumber-extentsreport -->
-<dependency>
-    <groupId>com.vimalselvam</groupId>
-    <artifactId>cucumber-extentsreport</artifactId>
-    <version>1.1.0</version>
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.freemarker/freemarker -->
-<dependency>
-    <groupId>org.freemarker</groupId>
-    <artifactId>freemarker</artifactId>
-    <version>2.3.23</version>
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
-<dependency>
-    <groupId>com.relevantcodes</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>2.41.1</version>
-</dependency>
 
 
   </dependencies>
