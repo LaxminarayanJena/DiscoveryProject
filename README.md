@@ -13,7 +13,7 @@ Developed in MacBook Pro
 ### Run
 ---
 
-a)Project-src-testjava-resources-runner-testng.xml
+a)Project-src-test-resources-runner-testng.xml
 
 Or 
 
